@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-03-15T16:35:53.390663+00:00",
-    "total_posts": 25,
-    "total_tickers": 0,
-    "top_ticker": null,
-    "top_subreddit": "investing",
-    "sentiment": "Neutral"
-  },
-  {
     "timestamp": "2026-03-15T17:30:05.071585+00:00",
     "total_posts": 25,
     "total_tickers": 0,
@@ -377,6 +369,14 @@
   },
   {
     "timestamp": "2026-03-18T10:54:47.189353+00:00",
+    "total_posts": 25,
+    "total_tickers": 0,
+    "top_ticker": null,
+    "top_subreddit": "wallstreetbets",
+    "sentiment": "Neutral"
+  },
+  {
+    "timestamp": "2026-03-18T11:48:08.353241+00:00",
     "total_posts": 25,
     "total_tickers": 0,
     "top_ticker": null,
